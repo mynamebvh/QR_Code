@@ -1,0 +1,9 @@
+.list-info {
+  display: flex !important;
+  max-width: 1200px;
+  flex-direction: row;
+}
+
+.info-box {
+  max-width: 25%;
+}
